@@ -1,0 +1,18 @@
+{
+    "name": "massu/sistema-rpg",
+    "autoload": {
+        "psr-4": {
+            "Massu\\SistemaRpg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonas Lopes",
+            "email": "jonasmassume@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "php-webdriver/webdriver": "^1.12"
+    }
+}
